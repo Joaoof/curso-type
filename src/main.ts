@@ -1,0 +1,1 @@
+console.log('Hello World, um novo back end está por vir. Vamos juntos!')
