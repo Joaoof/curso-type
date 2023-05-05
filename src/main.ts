@@ -1,5 +1,3 @@
-let message: string
+let items: Array<number>
 
-message = 'Hello World'
-
-message.toLocaleUpperCase()
+items = [4, 3, 2, 20]
